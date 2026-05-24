@@ -1,0 +1,2 @@
+# ScUps
+Penyimpanan script husus 
